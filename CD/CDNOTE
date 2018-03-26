@@ -1,1 +1,6 @@
-
+bdd--cucumber
+junit,mockito
+All CI topics
+jenkins bdd concepts
+single click deployments
+continious delivery using spinnaker/delivery pipeline
