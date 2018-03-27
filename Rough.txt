@@ -1,17 +1,19 @@
 https://github.com/vasu34k12/
 https://fts.capgemini.com
+C:\NN-TRAINING\apache-maven-3.2.2\bin
+
 
 MCI
 -----
-maven
-gradle
-jenkins
-git/github/bitbucket
-junit
-tdd
-nexus sonatype
-sonarqube
-eclipse sts
+maven-zip file
+gradle-zip file
+jenkins--varfile or exe file or docker
+git---installable file/github/bitbucket-exe file
+junit-no need to install
+tdd-no need to install
+nexus sonatype- need to install
+sonarqube-executable files
+eclipse sts-zip file
 -----------------
 MCD
 ----
