@@ -3,6 +3,8 @@ https://fts.capgemini.com
 C:\NN-TRAINING\apache-maven-3.2.2\bin
 http://mvnrepository.com/
 sslshopper.com
+https://pivotal.io/platform
+
 
 
 
