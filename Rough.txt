@@ -6,7 +6,14 @@ sslshopper.com
 https://pivotal.io/platform
 https://swagger.io/
 http://10.108.196.4:8081/nexus/#welcome
+http://www.oracle.com/technetwork/articles/javase/jdk-netbeans-jsp-142931.html------------------------jdk download
 
+         0
+ CONFIG<-| -||-----> GIT -------> GITHUB -------> SONARCUBE ------> JENKINS -------> REPORTS------>|UNIT|------>|TEST|------>|PROD|
+   |     ^  ||                                                                        (unit)
+ ANSIBLE    ||
+ PUPET       - MAVEN-NEXUS
+ CHEF
 
 
 
