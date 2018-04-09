@@ -1,1 +1,59 @@
+https://www.python.org/
+
+click downloads- download python 3.6.5
+enable this option-add python 3.6 to path- and install customize option.
+open python..
+
+>>> - this means REPL Console... r-read, e-evalute, p-print, l-loop
+we cannot development here, we can do testing only here
+
+
+1)Pycharm- frontend
+         - phython- Data Jango(DJango)-- Pega Saystem----for ETL-PANDAS OR PEATEL- PANDAS is rulling the market.
+                  -strawberry
+                  -Flask--for the development its very easy
+                  
+                
+2)Pydec - Javc
+-------
+
+FOR THE BASIC LOGGING: PYGOGO, LO4PYTHON, PYTHONLOGIGINGLIBR----THIS 3 THINGS ARE THERE IN MARKET
+UNITE TESTING: PYTEST
+SERVER PART: FOR PYTHON NGINX, 
+FOR CLOUD LOGGING: SENTRY LOGGING(ITS 3RD PARTY TOOL)
+FOR BDD: CUCUMBER(JYTON VERSION)
+FOR CONTINIOUS QUALITY: SONARCUBE
+FOR CONTINIOUS INTIGRATION: JENKINS
+INSTALLING LIBRARY: PIP/PIP3(SSL NEED)/EASY_INSTALL(IT WILL IGNORE SSL CERTIFICATES, AND IT WILL BYPASS EVERYTHING)---IT WILL CHECK SECURITY CHECKSUMS
+MECHINE LEARNING: SCPY LIBRARY
+
+
+PYTHON FOLLOWS 2 APPROACHS: STRUCTURAL AND OBJECT ORIENTED--WE CAN DEEL WITH BOTH THINGS
+DB: PYTHON DB(), SQLALCHEMY(IT SUPPORTS ORM) ITS ALSO A FRAMEWORK AND IT SUPPORTS TO DB LOGIC.
+https://www.sqlalchemy.org/
+https://sentry.io/welcome/
+https://www.nginx.com/- THIS SUPPORTS JAVA SCRIPS- THIS WILL REPLACE TOMCAT IN NXT 2YEARS
+https://jenkins.io/solutions/python/ - CONTINIOUS INTIGRATION
+http://scikit-learn.org/stable/- THIS CAN BE USE FOR MECHINE LEARNING
+
+go to python3.6 folder and scripts folder---C:\Users\learning\AppData\Local\Programs\Python\Python36-32
+
+anaconda-- for the security its blocked
+miniconda--https://conda.io/miniconda.html
+https://hub.docker.com/ - cap id and pw
+
+vagrant for python - 
+vagrant boxes - http://www.vagrantbox.es/
+
+python repo- https://pypi.python.org/pypi
+pip will check for central repository
+
+
+
+
+
+
+
+
+
 
